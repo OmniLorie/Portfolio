@@ -56,7 +56,7 @@ const projects = [
       "Designed and developed a personal portfolio website to showcase my skills, projects, and work experience.",
     technologies: ["HTML", "CSS", "JavaScript", "React", "Tailwind CSS"],
     image: heroBg,
-    link: "",
+    link: "https://loretta-osibe.vercel.app/",
   },
 ];
 
